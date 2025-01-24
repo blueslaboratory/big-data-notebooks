@@ -1,0 +1,652 @@
+PAIS,NUMERO PELICULAS,MAXIMA,MINIMA,MEDIA
+", France, Algeria",1,103,103,103.0
+Argentina,38,116,49,85.78947368421052
+"Argentina, Brazil, France, Poland, Germany, Denmark",1,96,96,96.0
+"Argentina, Chile",2,112,78,95.0
+"Argentina, Chile, Peru",1,100,100,100.0
+"Argentina, France",1,87,87,87.0
+"Argentina, France, United States, Germany, Qatar",1,108,108,108.0
+"Argentina, Italy",1,66,66,66.0
+"Argentina, Spain",7,124,85,101.71428571428571
+"Argentina, United States",1,113,113,113.0
+"Argentina, Uruguay, Serbia",1,73,73,73.0
+"Argentina, Uruguay, Spain, France",1,113,113,113.0
+"Argentina, Venezuela",1,100,100,100.0
+Australia,39,146,23,91.38461538461539
+"Australia, Armenia, Japan, Jordan, Mexico, Mongolia, New Zealand, Philippines, South Africa, Sweden, United States, Uruguay",1,101,101,101.0
+"Australia, Canada",1,51,51,51.0
+"Australia, France",1,111,111,111.0
+"Australia, France, Ireland",1,72,72,72.0
+"Australia, India",1,145,145,145.0
+"Australia, Iraq",1,76,76,76.0
+"Australia, United Arab Emirates",2,96,87,91.5
+"Australia, United Kingdom",1,95,95,95.0
+"Australia, United Kingdom, Canada",1,109,109,109.0
+"Australia, United Kingdom, United Arab Emirates, Canada",1,90,90,90.0
+"Australia, United Kingdom, United States, New Zealand, Italy, France",1,100,100,100.0
+"Australia, United States",10,120,91,100.0
+Austria,5,112,93,101.0
+"Austria, Czech Republic",1,98,98,98.0
+"Austria, Iraq, United States",1,89,89,89.0
+"Austria, United States",1,100,100,100.0
+Bangladesh,3,136,95,111.66666666666667
+Belgium,1,77,77,77.0
+"Belgium, France",3,114,88,102.66666666666667
+"Belgium, France, Netherlands",1,127,127,127.0
+"Belgium, Ireland, Netherlands, Germany, Afghanistan",1,84,84,84.0
+"Belgium, Netherlands",1,107,107,107.0
+"Belgium, United Kingdom",1,90,90,90.0
+"Belgium, United Kingdom, United States",1,102,102,102.0
+Brazil,50,133,44,89.18
+"Brazil, France",2,132,103,117.5
+"Brazil, France, Germany",1,130,130,130.0
+"Brazil, India, China, United States",1,92,92,92.0
+"Brazil, Netherlands, United States, Colombia, Austria, Germany",1,72,72,72.0
+"Brazil, United States",1,81,81,81.0
+Bulgaria,1,91,91,91.0
+"Bulgaria, United States",3,94,87,90.33333333333333
+"Bulgaria, United States, Spain, Canada",1,110,110,110.0
+Cambodia,1,92,92,92.0
+"Cambodia, United States",1,137,137,137.0
+Cameroon,1,143,143,143.0
+Canada,122,140,24,82.72950819672131
+"Canada, Belgium",1,111,111,111.0
+"Canada, France, Italy, Morocco, United States",1,87,87,87.0
+"Canada, France, United States",1,94,94,94.0
+"Canada, Germany",1,91,91,91.0
+"Canada, Germany, France, United States",1,112,112,112.0
+"Canada, Hungary, United States",1,128,128,128.0
+"Canada, India",2,158,105,131.5
+"Canada, India, Thailand, United States, United Arab Emirates",1,84,84,84.0
+"Canada, Ireland, United States",1,108,108,108.0
+"Canada, Japan, United States",1,87,87,87.0
+"Canada, Luxembourg",1,95,95,95.0
+"Canada, Mexico, Germany, South Africa",1,95,95,95.0
+"Canada, Nigeria",1,97,97,97.0
+"Canada, Nigeria, United States",1,86,86,86.0
+"Canada, Norway",1,106,106,106.0
+"Canada, South Africa",2,104,94,99.0
+"Canada, South Korea, United States",1,85,85,85.0
+"Canada, Spain",1,81,81,81.0
+"Canada, Spain, France",1,91,91,91.0
+"Canada, United Kingdom",1,51,51,51.0
+"Canada, United Kingdom, Netherlands",1,110,110,110.0
+"Canada, United Kingdom, United States",1,101,101,101.0
+"Canada, United States",32,136,19,94.6875
+"Canada, United States, Cayman Islands",1,85,85,85.0
+"Canada, United States, Denmark",1,99,99,99.0
+"Canada, United States, Germany",1,90,90,90.0
+"Canada, United States, India, United Kingdom",1,89,89,89.0
+"Canada, United States, Mexico",1,119,119,119.0
+"Canada, United States, United Kingdom",4,134,88,106.5
+Chile,11,116,60,89.0
+"Chile, Argentina",1,100,100,100.0
+"Chile, Argentina, France, Spain, United States",1,108,108,108.0
+"Chile, Brazil",1,97,97,97.0
+"Chile, France",1,86,86,86.0
+"Chile, Peru",1,119,119,119.0
+"Chile, Spain, Argentina, Germany",1,88,88,88.0
+"Chile, United States, France",1,96,96,96.0
+China,28,139,86,109.92857142857143
+"China, Canada, United States",3,141,96,114.33333333333333
+"China, Germany, India, United States",1,74,74,74.0
+"China, Hong Kong",13,132,100,114.38461538461539
+"China, Hong Kong, United States",1,107,107,107.0
+"China, India, Nepal",1,107,107,107.0
+"China, Japan",1,74,74,74.0
+"China, Morocco, Hong Kong",1,139,139,139.0
+"China, South Korea, United States",1,88,88,88.0
+"China, Spain, South Korea, United States",1,106,106,106.0
+"China, Taiwan",2,130,120,125.0
+"China, United Kingdom",1,73,73,73.0
+"China, United States",2,101,100,100.5
+"China, United States, Australia",1,88,88,88.0
+"China, United States, Canada",1,102,102,102.0
+"China, United States, United Kingdom",1,92,92,92.0
+Colombia,13,108,59,82.07692307692308
+"Colombia, Mexico",1,89,89,89.0
+"Colombia, Peru, United Kingdom",1,73,73,73.0
+"Croatia, Slovenia, Serbia, Montenegro",1,157,157,157.0
+"Czech Republic, France",1,52,52,52.0
+"Czech Republic, Slovakia",1,110,110,110.0
+"Czech Republic, United Kingdom, France",1,104,104,104.0
+"Czech Republic, United Kingdom, United States",1,127,127,127.0
+"Czech Republic, United States",1,124,124,124.0
+Denmark,5,168,75,108.2
+"Denmark, Brazil, France, Portugal, Sweden",1,82,82,82.0
+"Denmark, China",1,44,44,44.0
+"Denmark, France, Belgium, Italy, Netherlands, United States, United Kingdom",1,89,89,89.0
+"Denmark, France, Poland",1,93,93,93.0
+"Denmark, France, United States, Sweden",1,90,90,90.0
+"Denmark, Germany, Belgium, United Kingdom, France",1,117,117,117.0
+"Denmark, Germany, Belgium, United Kingdom, France, Sweden",1,124,124,124.0
+"Denmark, Indonesia, Finland, Norway, United Kingdom, Israel, France, United States, Germany, Netherlands",1,103,103,103.0
+"Denmark, Spain",1,87,87,87.0
+"Denmark, Sweden, Israel, United States",1,99,99,99.0
+"Denmark, United Kingdom, South Africa, Sweden, Belgium",1,92,92,92.0
+"Denmark, United Kingdom, Sweden",1,94,94,94.0
+"Denmark, United States",1,92,92,92.0
+"Denmark, Zimbabwe",1,99,99,99.0
+Egypt,92,253,15,108.1413043478261
+"Egypt, Algeria",1,131,131,131.0
+"Egypt, Austria, United States",1,97,97,97.0
+"Egypt, Denmark, Germany",1,93,93,93.0
+"Egypt, France",2,130,98,114.0
+"Egypt, Saudi Arabia",1,96,96,96.0
+"Finland, Germany, Belgium",1,93,93,93.0
+"Finland, Sweden, Norway, Latvia, Germany",1,108,108,108.0
+"Finland, United States",1,97,97,97.0
+France,75,133,52,93.46666666666667
+"France, Algeria",1,91,91,91.0
+"France, Belgium",24,112,73,95.58333333333333
+"France, Belgium, China, United States",1,87,87,87.0
+"France, Belgium, Italy",1,94,94,94.0
+"France, Belgium, Luxembourg, Cambodia,",1,87,87,87.0
+"France, Belgium, Luxembourg, Romania, Canada, United States",1,118,118,118.0
+"France, Belgium, Spain",1,180,180,180.0
+"France, Belgium, United States",1,101,101,101.0
+"France, Brazil, Spain, Belgium",1,128,128,128.0
+"France, Canada",2,89,86,87.5
+"France, Canada, Belgium",1,107,107,107.0
+"France, Canada, China, Cambodia",1,105,105,105.0
+"France, Canada, Italy, United States, China",1,107,107,107.0
+"France, Canada, United States",1,95,95,95.0
+"France, Canada, United States, Spain",1,90,90,90.0
+"France, China, Japan, United States",1,86,86,86.0
+"France, Egypt",3,136,106,117.0
+"France, Germany, Czech Republic, Belgium",1,105,105,105.0
+"France, Germany, Switzerland",1,124,124,124.0
+"France, Iran, United States",1,122,122,122.0
+"France, Israel, Germany, United States, United Kingdom",1,117,117,117.0
+"France, Japan",1,95,95,95.0
+"France, Japan, United States",1,145,145,145.0
+"France, Lebanon",1,108,108,108.0
+"France, Lebanon, United Kingdom",1,94,94,94.0
+"France, Luxembourg, Canada",1,71,71,71.0
+"France, Luxembourg, United States",1,88,88,88.0
+"France, Malta, United States",1,122,122,122.0
+"France, Morocco",1,104,104,104.0
+"France, Netherlands, Singapore",1,95,95,95.0
+"France, Netherlands, South Africa, Finland",1,85,85,85.0
+"France, New Zealand",1,103,103,103.0
+"France, Norway, Lebanon, Belgium",1,106,106,106.0
+"France, Qatar",1,107,107,107.0
+"France, Senegal, Belgium",1,106,106,106.0
+"France, South Korea, Japan",1,22,22,22.0
+"France, Switzerland, Spain, United States, United Arab Emirates",1,84,84,84.0
+"France, United Kingdom, India",1,122,122,122.0
+"France, United Kingdom, United States",1,93,93,93.0
+"France, United States",6,102,87,93.66666666666667
+"France, United States, Mexico",1,143,143,143.0
+"France, United States, United Kingdom, Canada",1,132,132,132.0
+Georgia,1,24,24,24.0
+"Georgia, Germany, France",1,119,119,119.0
+Germany,47,155,21,93.97872340425532
+"Germany, Australia",1,100,100,100.0
+"Germany, Belgium",1,89,89,89.0
+"Germany, Canada, United States",1,124,124,124.0
+"Germany, China, United Kingdom",1,93,93,93.0
+"Germany, Czech Republic",1,127,127,127.0
+"Germany, France",1,112,112,112.0
+"Germany, France, Luxembourg, United Kingdom, United States",1,110,110,110.0
+"Germany, France, United States, Canada, United Kingdom",1,97,97,97.0
+"Germany, Italy",1,91,91,91.0
+"Germany, Jordan, Netherlands",1,83,83,83.0
+"Germany, Sri Lanka",1,87,87,87.0
+"Germany, United Kingdom",2,103,93,98.0
+"Germany, United Kingdom, United States",1,106,106,106.0
+"Germany, United States",12,153,79,103.5
+"Germany, United States, Canada",1,94,94,94.0
+"Germany, United States, France",1,99,99,99.0
+"Germany, United States, Hong Kong, Singapore",1,172,172,172.0
+"Germany, United States, Sweden",1,86,86,86.0
+"Germany, United States, United Kingdom, Canada",1,89,89,89.0
+Ghana,3,148,89,113.66666666666667
+"Ghana, United States",1,81,81,81.0
+"Greece, United States",1,106,106,106.0
+Guatemala,1,69,69,69.0
+Hong Kong,50,125,79,96.78
+"Hong Kong, Canada, United States",1,94,94,94.0
+"Hong Kong, China",16,130,88,106.25
+"Hong Kong, China, Singapore",1,113,113,113.0
+"Hong Kong, China, United States",2,118,99,108.5
+"Hong Kong, Iceland, United States",1,96,96,96.0
+"Hong Kong, Taiwan",1,101,101,101.0
+"Hong Kong, United States",4,103,87,96.75
+Hungary,4,116,72,97.5
+"Hungary, United States",1,116,116,116.0
+Iceland,2,106,54,80.0
+"Iceland, Sweden, Belgium",1,102,102,102.0
+India,893,228,29,126.92273236282195
+"India, Australia",1,119,119,119.0
+"India, Canada",1,122,122,122.0
+"India, France",5,116,85,103.6
+"India, Germany",2,148,104,126.0
+"India, Germany, Austria",1,101,101,101.0
+"India, Iran",1,120,120,120.0
+"India, Japan",1,106,106,106.0
+"India, Malaysia",1,158,158,158.0
+"India, Mexico",1,81,81,81.0
+"India, Nepal",1,82,82,82.0
+"India, Pakistan",1,127,127,127.0
+"India, Soviet Union",2,163,160,161.5
+"India, Switzerland",1,106,106,106.0
+"India, Turkey",1,98,98,98.0
+"India, United Kingdom",2,224,96,160.0
+"India, United Kingdom, Canada, United States",1,143,143,143.0
+"India, United Kingdom, China, Canada, Japan, South Korea, United States",1,93,93,93.0
+"India, United Kingdom, France, Qatar",1,97,97,97.0
+"India, United States",9,155,73,110.88888888888889
+Indonesia,77,180,73,108.83116883116882
+"Indonesia, Netherlands",1,118,118,118.0
+"Indonesia, Singapore",2,125,103,114.0
+"Indonesia, South Korea, Singapore",1,106,106,106.0
+"Indonesia, United Kingdom",1,89,89,89.0
+"Indonesia, United States",1,121,121,121.0
+"Iran, France",1,123,123,123.0
+Ireland,7,100,83,91.14285714285714
+"Ireland, Canada",1,30,30,30.0
+"Ireland, Canada, Luxembourg, United States, United Kingdom, Philippines, India",1,93,93,93.0
+"Ireland, Canada, United Kingdom, United States",1,118,118,118.0
+"Ireland, France, Iceland, United States, Mexico, Belgium, United Kingdom, Hong Kong",1,125,125,125.0
+"Ireland, Luxembourg, Belgium",1,100,100,100.0
+"Ireland, South Africa",1,108,108,108.0
+"Ireland, Switzerland, United Kingdom, France, United States",1,111,111,111.0
+"Ireland, United Kingdom",2,121,106,113.5
+"Ireland, United Kingdom, France, Germany",1,95,95,95.0
+"Ireland, United Kingdom, Greece, France, Netherlands",1,119,119,119.0
+"Ireland, United Kingdom, Italy, United States",1,96,96,96.0
+"Ireland, United Kingdom, United States",1,85,85,85.0
+"Ireland, United States",1,93,93,93.0
+"Ireland, United States, France",1,53,53,53.0
+Israel,5,114,55,94.0
+"Israel, Germany",1,109,109,109.0
+"Israel, Germany, France",1,88,88,88.0
+"Israel, Germany, Poland, Luxembourg, Belgium, France, United States",1,123,123,123.0
+"Israel, Sweden, Germany, Netherlands",1,102,102,102.0
+"Israel, United States",3,114,98,105.0
+Italy,32,119,45,94.28125
+"Italy, Belgium",1,107,107,107.0
+"Italy, Brazil, Greece",1,110,110,110.0
+"Italy, France",5,135,91,108.8
+"Italy, France, Switzerland",1,119,119,119.0
+"Italy, India",1,73,73,73.0
+"Italy, Switzerland, Albania, Poland",1,105,105,105.0
+"Italy, Switzerland, France, Germany",1,127,127,127.0
+"Italy, Turkey",1,110,110,110.0
+"Italy, United States",3,229,69,154.66666666666666
+"Italy, United States, Argentina",1,69,69,69.0
+"Jamaica, United States",1,112,112,112.0
+Japan,76,181,5,98.46052631578948
+"Japan, United States",9,116,53,93.33333333333333
+Kenya,3,107,92,97.33333333333333
+"Kenya, United States",1,70,70,70.0
+Kuwait,4,177,72,110.0
+"Kuwait, United States",1,104,104,104.0
+Lebanon,9,112,69,95.22222222222223
+"Lebanon, Canada, France",2,93,74,83.5
+"Lebanon, France",1,76,76,76.0
+"Lebanon, Palestine, Denmark, Qatar",1,75,75,75.0
+"Lebanon, Qatar",1,109,109,109.0
+"Lebanon, Syria",1,13,13,13.0
+"Lebanon, United Arab Emirates",1,91,91,91.0
+"Lebanon, United Arab Emirates, France, Switzerland, Germany",1,96,96,96.0
+"Lebanon, United States, United Arab Emirates",1,81,81,81.0
+Malaysia,16,120,76,99.1875
+Mauritius,1,90,90,90.0
+Mexico,70,152,28,87.52857142857142
+"Mexico, Argentina",1,51,51,51.0
+"Mexico, Brazil",1,99,99,99.0
+"Mexico, Finland",1,102,102,102.0
+"Mexico, France",1,107,107,107.0
+"Mexico, France, Colombia",1,97,97,97.0
+"Mexico, Netherlands",1,96,96,96.0
+"Mexico, Spain",3,119,93,109.66666666666667
+"Mexico, United States",7,135,28,95.28571428571429
+Mozambique,1,102,102,102.0
+Namibia,1,29,29,29.0
+Netherlands,15,196,12,91.33333333333333
+"Netherlands, Belgium",2,106,85,95.5
+"Netherlands, Belgium, Germany, Jordan",1,99,99,99.0
+"Netherlands, Belgium, United Kingdom, United States",1,95,95,95.0
+"Netherlands, Denmark, France, Germany",1,73,73,73.0
+"Netherlands, Denmark, South Africa",1,111,111,111.0
+"Netherlands, Germany, Denmark, United Kingdom",1,83,83,83.0
+"Netherlands, United States",1,96,96,96.0
+New Zealand,10,102,70,89.1
+"New Zealand, Australia, France, United States",1,121,121,121.0
+"New Zealand, United Kingdom",1,94,94,94.0
+"New Zealand, United Kingdom, Australia",1,112,112,112.0
+"New Zealand, United States",2,201,179,190.0
+Nigeria,86,182,21,107.03488372093024
+"Nigeria, United Kingdom",1,76,76,76.0
+Norway,6,130,58,88.0
+"Norway, Denmark, Netherlands, Sweden",1,98,98,98.0
+"Norway, Denmark, Sweden",1,117,117,117.0
+"Norway, Germany",1,118,118,118.0
+"Norway, Iceland, United States",2,144,144,144.0
+"Norway, United Kingdom, France, Ireland",1,130,130,130.0
+Pakistan,14,170,88,130.42857142857142
+"Pakistan, Norway, United States",1,93,93,93.0
+"Pakistan, United Arab Emirates",1,124,124,124.0
+"Pakistan, United States",2,135,16,75.5
+"Paraguay, Argentina",1,107,107,107.0
+Peru,4,104,74,91.25
+"Peru, Germany, Norway",1,102,102,102.0
+"Peru, United States, United Kingdom",1,103,103,103.0
+Philippines,73,150,78,111.94520547945206
+"Philippines, Canada, United Kingdom, United States",1,110,110,110.0
+"Philippines, Qatar",1,115,115,115.0
+"Philippines, Singapore",1,100,100,100.0
+"Philippines, United States",1,94,94,94.0
+Poland,18,136,33,96.5
+"Poland,",1,96,96,96.0
+"Poland, United States",2,105,103,104.0
+"Poland, West Germany",1,90,90,90.0
+"Portugal, France, Poland, United States",1,77,77,77.0
+"Portugal, Spain",2,109,95,102.0
+"Portugal, United States",1,113,113,113.0
+Romania,6,154,96,118.0
+"Romania, Bulgaria, Hungary",1,126,126,126.0
+"Romania, France, Switzerland, Germany",1,186,186,186.0
+"Romania, United Kingdom",1,93,93,93.0
+"Romania, United States",1,104,104,104.0
+Russia,1,108,108,108.0
+"Russia, Poland, Serbia",1,126,126,126.0
+"Russia, Spain",1,78,78,78.0
+"Russia, United States",1,105,105,105.0
+"Russia, United States, China",1,96,96,96.0
+Saudi Arabia,5,120,88,100.0
+"Saudi Arabia, Netherlands, Germany, Jordan, United Arab Emirates, United States",1,93,93,93.0
+"Saudi Arabia, United Arab Emirates",1,95,95,95.0
+"Serbia, South Korea, Slovenia",1,92,92,92.0
+"Serbia, United States",2,91,89,90.0
+Singapore,6,104,61,84.83333333333333
+"Singapore, France",1,111,111,111.0
+"Singapore, Japan, France",1,90,90,90.0
+"Singapore, Malaysia",1,92,92,92.0
+"Singapore, United States",1,83,83,83.0
+"Slovenia, Croatia, Germany, Czech Republic, Qatar",1,84,84,84.0
+"Somalia, Kenya, Sudan, South Africa, United States",1,118,118,118.0
+South Africa,24,118,30,92.45833333333333
+"South Africa, Angola",1,107,107,107.0
+"South Africa, China, United States",1,93,93,93.0
+"South Africa, Germany, Netherlands, France",1,88,88,88.0
+"South Africa, Nigeria",1,87,87,87.0
+"South Africa, United States",4,121,99,108.0
+"South Africa, United States, Germany",1,106,106,106.0
+"South Africa, United States, Japan",1,115,115,115.0
+"South Africa, United States, New Zealand, Canada",1,112,112,112.0
+South Korea,41,143,54,117.09756097560975
+"South Korea, China, United States",1,109,109,109.0
+"South Korea, Czech Republic",1,126,126,126.0
+"South Korea, Japan",1,148,148,148.0
+"South Korea, United States",3,121,72,90.33333333333333
+"Soviet Union, India",1,147,147,147.0
+Spain,97,163,25,100.05154639175258
+"Spain, Argentina",3,110,92,101.33333333333333
+"Spain, Belgium",1,88,88,88.0
+"Spain, Belgium, United States",1,116,116,116.0
+"Spain, Canada, United States",1,108,108,108.0
+"Spain, Colombia",1,95,95,95.0
+"Spain, France",5,126,99,111.0
+"Spain, France, Canada",1,148,148,148.0
+"Spain, France, Canada, United States",1,96,96,96.0
+"Spain, France, Italy",1,133,133,133.0
+"Spain, France, United Kingdom, United States",1,102,102,102.0
+"Spain, France, United States",1,108,108,108.0
+"Spain, France, Uruguay",1,80,80,80.0
+"Spain, Germany",3,140,121,130.0
+"Spain, Italy",1,83,83,83.0
+"Spain, Italy, Argentina",1,99,99,99.0
+"Spain, Mexico",2,114,111,112.5
+"Spain, Mexico, France",1,103,103,103.0
+"Spain, Portugal",1,90,90,90.0
+"Spain, Switzerland",1,104,104,104.0
+"Spain, Thailand, United States",1,114,114,114.0
+"Spain, United Kingdom",1,98,98,98.0
+"Spain, United Kingdom, United States",1,91,91,91.0
+"Spain, United States",1,95,95,95.0
+Sweden,5,111,77,94.6
+"Sweden, Czech Republic, United Kingdom, Denmark, Netherlands",1,99,99,99.0
+"Sweden, Netherlands",1,97,97,97.0
+"Sweden, United Kingdom, Finland",1,86,86,86.0
+"Sweden, United States",3,91,40,73.33333333333333
+Switzerland,1,94,94,94.0
+"Switzerland, France",1,68,68,68.0
+"Switzerland, France, Belgium, United States",1,94,94,94.0
+"Switzerland, United Kingdom, Australia",1,108,108,108.0
+"Switzerland, United Kingdom, United States",1,108,108,108.0
+"Switzerland, United States",1,92,92,92.0
+"Switzerland, Vatican City, Italy, Germany, France",1,96,96,96.0
+"Syria, France, Lebanon, Qatar",1,91,91,91.0
+Taiwan,13,156,82,108.61538461538461
+"Taiwan, China, France, United States",1,106,106,106.0
+"Taiwan, Hong Kong, United States, China",1,120,120,120.0
+Thailand,37,135,82,107.72972972972973
+"Thailand, Canada, United States",1,96,96,96.0
+"Thailand, China, United States",1,96,96,96.0
+"Thailand, United States",2,100,80,90.0
+Turkey,76,153,90,107.42105263157895
+"Turkey, France, Germany, Poland",1,102,102,102.0
+"Turkey, India",1,107,107,107.0
+"Turkey, South Korea",1,100,100,100.0
+"Turkey, United States",2,112,111,111.5
+United Arab Emirates,13,116,60,88.61538461538461
+"United Arab Emirates, Jordan",1,96,96,96.0
+"United Arab Emirates, Jordan, Lebanon, Saudi Arabia",1,104,104,104.0
+"United Arab Emirates, Romania",1,99,99,99.0
+"United Arab Emirates, United Kingdom, India",1,108,108,108.0
+"United Arab Emirates, United States",2,125,87,106.0
+"United Arab Emirates, United States, United Kingdom",1,86,86,86.0
+United Kingdom,206,146,15,84.86893203883496
+"United Kingdom,",2,100,24,62.0
+"United Kingdom, Australia, Canada, United States",1,125,125,125.0
+"United Kingdom, Australia, France",1,119,119,119.0
+"United Kingdom, Australia, France, United States",1,118,118,118.0
+"United Kingdom, Australia, United States",1,120,120,120.0
+"United Kingdom, Belgium",2,103,91,97.0
+"United Kingdom, Belgium, Sweden",1,86,86,86.0
+"United Kingdom, Brazil, Germany",1,114,114,114.0
+"United Kingdom, Canada",2,99,95,97.0
+"United Kingdom, Canada, France, United States",1,123,123,123.0
+"United Kingdom, Canada, Italy",1,84,84,84.0
+"United Kingdom, Canada, Japan",1,89,89,89.0
+"United Kingdom, Canada, United States",6,109,90,99.0
+"United Kingdom, Canada, United States, Cayman Islands",1,86,86,86.0
+"United Kingdom, Canada, United States, Germany",1,100,100,100.0
+"United Kingdom, China, United States",1,119,119,119.0
+"United Kingdom, China, United States, India",1,113,113,113.0
+"United Kingdom, Czech Republic, Germany, United States",1,105,105,105.0
+"United Kingdom, Czech Republic, United States, Germany, Bahamas",1,145,145,145.0
+"United Kingdom, Denmark, Canada, Croatia",1,90,90,90.0
+"United Kingdom, Egypt, United States",1,105,105,105.0
+"United Kingdom, France",5,110,88,102.6
+"United Kingdom, France, Belgium",1,100,100,100.0
+"United Kingdom, France, Belgium, Canada, United States",1,107,107,107.0
+"United Kingdom, France, Belgium, Ireland, United States",1,87,87,87.0
+"United Kingdom, France, Belgium, United States",1,103,103,103.0
+"United Kingdom, France, Canada, Belgium, United States",1,107,107,107.0
+"United Kingdom, France, Germany",1,103,103,103.0
+"United Kingdom, France, Germany, United States",2,134,128,131.0
+"United Kingdom, France, Poland, Germany, United States",1,149,149,149.0
+"United Kingdom, France, Spain, United States",1,115,115,115.0
+"United Kingdom, France, United States",4,132,96,114.5
+"United Kingdom, France, United States, Belgium",1,124,124,124.0
+"United Kingdom, France, United States, Belgium, Luxembourg, China, Germany",1,92,92,92.0
+"United Kingdom, Germany",3,127,26,82.33333333333333
+"United Kingdom, Germany, Canada",1,107,107,107.0
+"United Kingdom, Germany, Canada, United States",1,138,138,138.0
+"United Kingdom, Germany, France, United States",1,113,113,113.0
+"United Kingdom, Germany, Spain, United States",1,130,130,130.0
+"United Kingdom, Germany, United Arab Emirates, New Zealand",1,98,98,98.0
+"United Kingdom, Germany, United States",2,123,87,105.0
+"United Kingdom, Hong Kong",1,100,100,100.0
+"United Kingdom, Hungary, Australia",1,141,141,141.0
+"United Kingdom, India",2,157,121,139.0
+"United Kingdom, India, Sweden",1,106,106,106.0
+"United Kingdom, India, United States",2,121,75,98.0
+"United Kingdom, Ireland",2,121,101,111.0
+"United Kingdom, Israel, Russia",1,87,87,87.0
+"United Kingdom, Italy",2,126,101,113.5
+"United Kingdom, Italy, Israel, Peru, United States",1,83,83,83.0
+"United Kingdom, Japan",1,123,123,123.0
+"United Kingdom, Japan, United States",3,143,107,120.66666666666667
+"United Kingdom, Jordan, Qatar, Iran",1,84,84,84.0
+"United Kingdom, Kenya",1,28,28,28.0
+"United Kingdom, Lithuania",1,96,96,96.0
+"United Kingdom, Malawi",1,114,114,114.0
+"United Kingdom, Namibia, South Africa, Zimbabwe, United States",1,110,110,110.0
+"United Kingdom, New Zealand",1,84,84,84.0
+"United Kingdom, Nigeria",2,93,86,89.5
+"United Kingdom, Norway, Denmark, Germany, Sweden",1,96,96,96.0
+"United Kingdom, Pakistan",1,125,125,125.0
+"United Kingdom, Poland",1,107,107,107.0
+"United Kingdom, Poland, United States",1,93,93,93.0
+"United Kingdom, Russia",1,74,74,74.0
+"United Kingdom, Russia, United States",1,114,114,114.0
+"United Kingdom, South Africa",1,97,97,97.0
+"United Kingdom, South Africa, France",1,141,141,141.0
+"United Kingdom, South Korea",1,115,115,115.0
+"United Kingdom, Spain, Belgium",1,90,90,90.0
+"United Kingdom, Spain, United States",1,108,108,108.0
+"United Kingdom, Spain, United States, Germany",1,97,97,97.0
+"United Kingdom, Thailand",1,105,105,105.0
+"United Kingdom, Ukraine, United States",1,99,99,99.0
+"United Kingdom, United States",63,163,85,111.2063492063492
+"United Kingdom, United States, Australia",3,119,112,116.33333333333333
+"United Kingdom, United States, Canada",1,112,112,112.0
+"United Kingdom, United States, Dominican Republic",1,89,89,89.0
+"United Kingdom, United States, France",2,127,98,112.5
+"United Kingdom, United States, France, Germany",1,101,101,101.0
+"United Kingdom, United States, France, Italy",1,103,103,103.0
+"United Kingdom, United States, Germany, Denmark, Belgium, Japan",1,120,120,120.0
+"United Kingdom, United States, Japan",1,208,208,208.0
+"United Kingdom, United States, Morocco",1,161,161,161.0
+"United Kingdom, United States, Spain, Germany, Greece, Canada",2,52,47,49.5
+United States,2058,312,0,90.49757045675413
+"United States,",1,77,77,77.0
+"United States, Argentina",2,94,92,93.0
+"United States, Australia",10,138,82,107.7
+"United States, Australia, China",1,81,81,81.0
+"United States, Australia, Mexico",1,99,99,99.0
+"United States, Australia, Samoa, United Kingdom",1,92,92,92.0
+"United States, Australia, South Africa, United Kingdom",1,90,90,90.0
+"United States, Belgium, Canada, France",1,103,103,103.0
+"United States, Bermuda, Ecuador",1,94,94,94.0
+"United States, Botswana",1,91,91,91.0
+"United States, Brazil",1,86,86,86.0
+"United States, Brazil, India, Uganda, China",1,68,68,68.0
+"United States, Bulgaria",4,123,98,109.5
+"United States, Cambodia",1,92,92,92.0
+"United States, Cambodia, Romania",1,114,114,114.0
+"United States, Canada",51,142,24,90.72549019607843
+"United States, Canada, Belgium, United Kingdom",1,105,105,105.0
+"United States, Canada, China",1,97,97,97.0
+"United States, Canada, France",1,96,96,96.0
+"United States, Canada, Germany",1,88,88,88.0
+"United States, Canada, Indonesia, United Kingdom, China, Singapore",1,107,107,107.0
+"United States, Canada, Ireland",1,89,89,89.0
+"United States, Canada, Japan, Panama",1,81,81,81.0
+"United States, Canada, United Kingdom",1,90,90,90.0
+"United States, Chile",2,101,89,95.0
+"United States, Chile, Israel",1,99,99,99.0
+"United States, China",8,105,89,97.375
+"United States, China, Canada",1,91,91,91.0
+"United States, China, Colombia",1,94,94,94.0
+"United States, China, Hong Kong",2,118,105,111.5
+"United States, China, United Kingdom",1,86,86,86.0
+"United States, Czech Republic",2,111,93,102.0
+"United States, Czech Republic, United Kingdom",1,119,119,119.0
+"United States, Denmark",1,108,108,108.0
+"United States, East Germany, West Germany",1,100,100,100.0
+"United States, France",14,133,49,98.14285714285714
+"United States, France, Canada, Belgium",1,105,105,105.0
+"United States, France, Canada, Lebanon, Qatar",1,85,85,85.0
+"United States, France, Canada, Spain",1,98,98,98.0
+"United States, France, Italy, United Kingdom",1,103,103,103.0
+"United States, France, Japan",2,95,86,90.5
+"United States, France, Mexico",1,112,112,112.0
+"United States, France, Serbia",1,117,117,117.0
+"United States, France, United Kingdom",1,75,75,75.0
+"United States, France, United Kingdom, Japan",1,93,93,93.0
+"United States, Germany",17,137,88,109.3529411764706
+"United States, Germany, Australia",1,97,97,97.0
+"United States, Germany, Canada",3,124,103,110.66666666666667
+"United States, Germany, Mexico",1,138,138,138.0
+"United States, Germany, United Kingdom",1,109,109,109.0
+"United States, Germany, United Kingdom, Australia",1,128,128,128.0
+"United States, Germany, United Kingdom, Italy",1,115,115,115.0
+"United States, Ghana, Burkina Faso, United Kingdom, Germany, Ethiopia",1,125,125,125.0
+"United States, Greece",2,115,112,113.5
+"United States, Greece, Brazil",1,85,85,85.0
+"United States, Greece, United Kingdom",1,87,87,87.0
+"United States, Hong Kong",3,151,88,112.66666666666667
+"United States, Hungary",1,108,108,108.0
+"United States, Iceland",1,92,92,92.0
+"United States, India",8,150,45,110.625
+"United States, India, Bangladesh",1,105,105,105.0
+"United States, India, France",1,106,106,106.0
+"United States, India, South Korea, China",1,90,90,90.0
+"United States, India, United Arab Emirates",1,123,123,123.0
+"United States, India, United Kingdom",1,118,118,118.0
+"United States, Indonesia",1,102,102,102.0
+"United States, Ireland",2,106,100,103.0
+"United States, Israel, United Kingdom, Canada",1,97,97,97.0
+"United States, Italy",4,167,78,115.75
+"United States, Italy, France, Japan",1,113,113,113.0
+"United States, Italy, Romania, United Kingdom",1,154,154,154.0
+"United States, Italy, United Kingdom, Liechtenstein",1,200,200,200.0
+"United States, Japan",6,117,59,86.33333333333333
+"United States, Kazakhstan",1,67,67,67.0
+"United States, Malta, France, United Kingdom",1,149,149,149.0
+"United States, Mexico",11,142,25,79.81818181818181
+"United States, Morocco",1,128,128,128.0
+"United States, New Zealand",2,114,92,103.0
+"United States, New Zealand, United Kingdom",1,107,107,107.0
+"United States, Nicaragua",1,103,103,103.0
+"United States, Nigeria",2,106,104,105.0
+"United States, Norway, Canada",1,88,88,88.0
+"United States, Philippines",1,94,94,94.0
+"United States, Russia",3,108,83,93.33333333333333
+"United States, Senegal",1,90,90,90.0
+"United States, South Africa",3,109,81,96.0
+"United States, South Korea",2,79,65,72.0
+"United States, South Korea, Japan",1,81,81,81.0
+"United States, Spain",4,108,61,84.0
+"United States, Spain, Germany",1,91,91,91.0
+"United States, Sweden",2,106,97,101.5
+"United States, Sweden, Norway",1,158,158,158.0
+"United States, Switzerland",1,96,96,96.0
+"United States, Taiwan",1,98,98,98.0
+"United States, Thailand",2,103,94,98.5
+"United States, United Arab Emirates",3,96,89,91.33333333333333
+"United States, United Kingdom",38,181,55,106.6842105263158
+"United States, United Kingdom, Australia",3,126,106,117.66666666666667
+"United States, United Kingdom, Canada",2,116,82,99.0
+"United States, United Kingdom, Canada, China",1,102,102,102.0
+"United States, United Kingdom, Canada, Japan",1,112,112,112.0
+"United States, United Kingdom, Denmark, Sweden",1,90,90,90.0
+"United States, United Kingdom, France",4,127,98,111.0
+"United States, United Kingdom, France, Germany, Japan",1,91,91,91.0
+"United States, United Kingdom, Germany",2,132,127,129.5
+"United States, United Kingdom, Germany, Hungary",1,121,121,121.0
+"United States, United Kingdom, India",1,130,130,130.0
+"United States, United Kingdom, Italy",1,137,137,137.0
+"United States, United Kingdom, Japan",1,106,106,106.0
+"United States, United Kingdom, Morocco",1,205,205,205.0
+"United States, United Kingdom, New Zealand",1,136,136,136.0
+"United States, United Kingdom, Spain, South Korea",1,111,111,111.0
+"United States, Uruguay",1,79,79,79.0
+"United States, Venezuela",1,84,84,84.0
+Uruguay,3,76,69,72.33333333333333
+"Uruguay, Argentina",1,88,88,88.0
+"Uruguay, Argentina, Germany, Spain",1,98,98,98.0
+"Uruguay, Argentina, Spain",1,122,122,122.0
+"Uruguay, Guatemala",1,67,67,67.0
+"Uruguay, Spain, Mexico",1,74,74,74.0
+Venezuela,1,119,119,119.0
+"Venezuela, Colombia",1,82,82,82.0
+Vietnam,7,117,92,106.28571428571429
+West Germany,1,150,150,150.0
+Zimbabwe,1,100,100,100.0
